@@ -1,5 +1,5 @@
 namespace:
-  name: test
+  name: demo-test
  
 image:
   repository: githuma/python-helloworld
